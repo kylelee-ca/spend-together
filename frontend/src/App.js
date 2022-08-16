@@ -7,7 +7,6 @@ import Register from './pages/Register'
 import Home from './pages/Home'
 
 function App() {
-  const user = '';
   return (
     <div className="App">
       <Header />
